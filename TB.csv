@@ -1,0 +1,43 @@
+﻿region,population_covered,total_cases,microbiologically_confirmed_cases,private_notified
+Andaman & Nicobar Islands,3.9,481,297,0
+Andhra Pradesh,525.4,64123,33319,17236
+Arunachal Pradesh,16.4,2523,1427,1
+Assam,350.5,35517,17219,6211
+Bihar,1247.6,99684,37568,47566
+Chandigarh,11.7,4321,1459,541
+Chhattisgarh,300.3,29395,11775,8401
+Dadra and Nagar Haveli and Daman and Diu,4.7,964,359,82
+Delhi,190.5,87032,37948,27292
+Goa,15.4,1665,908,327
+Gujarat,697.6,120619,44335,43364
+Haryana,295.3,63035,36412,21581
+Himachal Pradesh,75,13453,9125,1270
+Jammu & Kashmir,143,8858,4448,889
+Jharkhand,394.8,45803,19305,15348
+Karnataka,685.1,65986,37990,17256
+Kerala,344.4,20931,12478,5826
+Ladakh,3.4,238,129,7
+Lakshadweep,0.7,20,10,0
+Madhya Pradesh,843.6,138060,56714,33373
+Maharashtra,1257.4,160592,73695,64632
+Manipur,31.2,1583,908,430
+Meghalaya,36.6,4145,2376,687
+Mizoram,12.6,2201,1224,131
+Nagaland,20.7,3578,1750,689
+Odisha,463.2,45725,25567,5276
+Puducherry,15,2772,874,88
+Punjab,306.7,46389,26862,11708
+Rajasthan,799.2,137803,65964,41567
+Sikkim,6.6,1335,901,180
+Tamil Nadu,814,70567,45135,16479
+Telangana,376.1,63366,30206,22740
+Tripura,39.6,2072,1501,72
+Uttar Pradesh,2324.3,368492,143263,125459
+Uttarakhand,116.3,20091,8717,5783
+West Bengal,999.1,79444,52305,17484
+India,13767.9,1812863,844473,559976
+,,,,
+"Note : 1. ""Total patients notified for treatment"" is given in place of the term Total patients registered for treatment. Total patients include patients both from the Public and the Private sector.",,,,
+          2. Microbiologically Confirmed is the new nomenclature which includes erstwhile Smear Positive patients.,,,,
+          3. The treatment outcome of only DSTB microbiologically confirmed notified TB patients of both Public and Private sector are given.,,,,
+"Source : Ministry of Health and Family Welfare, Govt. of India. (ON2876)",,,,
